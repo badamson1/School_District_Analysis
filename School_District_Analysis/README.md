@@ -8,7 +8,7 @@ The purpose of this analysis is to exclude the test results of Thomas High Schoo
 ### District and School Summary
 After Thomas High School was removed, there is barely any change in the overall district scores
 
-![](School_District_Analysis/Resources/SchoolSummary.PNG)
+![DistrictSummary](School_District_Analysis/Resources/DistrictSummary.PNG)
 
 The scores were not affected very much at all, and THS is still a 2nd ranked school in terms of overall passing %
 
