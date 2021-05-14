@@ -12,8 +12,8 @@ After Thomas High School was removed, there is barely any change in the overall 
 
 The scores were not affected very much at all, and THS is still a 2nd ranked school in terms of overall passing %
 
-![](School_District_Analysis/School_District_Analysis/Resources/SchoolSummary.PNG)
-![](School_District_Analysis/School_District_Analysis/Resources/rankings.PNG)
+![](/School_District_Analysis/Resources/SchoolSummary.PNG)
+![](/School_District_Analysis/Resources/rankings.PNG)
 
 
 ## Results Summary
