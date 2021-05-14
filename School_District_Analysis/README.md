@@ -1,19 +1,20 @@
 # School_District_Analysis
-Using Python and Pandas to analyze school district data. 
-Refer to [PyCitySchools_Challenge.ipynb](../main/PyCitySchools_Challenge.ipynb).
+Using Python to analyze school district data. 
 
 ## Overview of Project
-The purpose of this analysis is  to find the passing percent for math and reading, and the overall passing percentage of the students. Also, found some of the test scores from the 9th grade at Thomas High School are missing.
+The purpose of this analysis is to exclude the test results of Thomas High School and to see how the district and school summaries are affected
 
 ## Project Results
-### District Summary
-![alt text](../main/Resources/District_Summary.png "District_Summary")
-### School Summary
-Overall it does not affect any score and the results are almost the same.
-![alt text](../main/Resources/Overall_Passing_Results.png "Overall_Passing_Results")
+### District and School Summary
+After Thomas High School was removed, there is barely any change in the overall district scores
+![alt text](../Resources/District_Summary.png "DistrictSummary")
+
+The scores were not affected very much at all, and THS is still a 2nd ranked school in terms of overall passing %
+![alt text](../Resources/SchoolSummary.png "Overall_Passing_Results")
+![alt text](../Resources/rankings.png "Rankings")
 
 ## Results Summary
-  - Overall it does not affect either the reading scores or math scores.
-  - Percentage Overall passing does not change.
-  - Scores by School Type and School Size remained the same.
-  - The only change in data is with Thomas High School.
+  - After removing the THS ninth grade scores, the overall math scores were not impacted
+  - After removing the THS ninth grade scores, the overall reading scores were not impacted
+  - The school Overall passing % rankings barely changed 
+  - The biggest changes in data were in the THS passing math/ reading %'s
