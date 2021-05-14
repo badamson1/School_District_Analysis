@@ -7,11 +7,11 @@ The purpose of this analysis is to exclude the test results of Thomas High Schoo
 ## Project Results
 ### District and School Summary
 After Thomas High School was removed, there is barely any change in the overall district scores
-![](/Resources/District_Summary.png "DistrictSummary")
+![](/Resources/District_Summary.png)
 
 The scores were not affected very much at all, and THS is still a 2nd ranked school in terms of overall passing %
-![](/Resources/SchoolSummary.png "Overall_Passing_Results")
-![](/Resources/rankings.png "Rankings")
+![](/Resources/SchoolSummary.png)
+![](/Resources/rankings.png)
 
 ## Results Summary
   - After removing the THS ninth grade scores, the overall math scores were not impacted
