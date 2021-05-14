@@ -1,5 +1,5 @@
 # School_District_Analysis
-Using Python to analyze school district data. 
+We are using Python to summarize School and District performances
 
 ## Overview of Project
 The purpose of this analysis is to exclude the test results of Thomas High School and to see how the district and school summaries are affected
@@ -7,11 +7,11 @@ The purpose of this analysis is to exclude the test results of Thomas High Schoo
 ## Project Results
 ### District and School Summary
 After Thomas High School was removed, there is barely any change in the overall district scores
-![alt text](../Resources/District_Summary.png "DistrictSummary")
+![alt text](/Resources/District_Summary.png "DistrictSummary")
 
 The scores were not affected very much at all, and THS is still a 2nd ranked school in terms of overall passing %
-![alt text](../Resources/SchoolSummary.png "Overall_Passing_Results")
-![alt text](../Resources/rankings.png "Rankings")
+![alt text](/Resources/SchoolSummary.png "Overall_Passing_Results")
+![alt text](/Resources/rankings.png "Rankings")
 
 ## Results Summary
   - After removing the THS ninth grade scores, the overall math scores were not impacted
